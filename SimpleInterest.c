@@ -1,4 +1,4 @@
-//Calclation of Simple Interest 
+//Calculation of Simple Interest 
 
 #include<stdio.h>
 
